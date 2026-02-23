@@ -1,3 +1,7 @@
+# The Odin Project - Recipes Project
+
+## This is the first project in the Odin Project curriculum, it's part of the fundamentals course.
+
 This project demonstrates:
 
 - Basic HTML skills
