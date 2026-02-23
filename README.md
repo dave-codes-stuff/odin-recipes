@@ -2,6 +2,8 @@
 
 ## This is the first project in the Odin Project curriculum, it's part of the fundamentals course.
 
+View the project here: https://dave-codes-stuff.github.io/odin-recipes/index.html
+
 This project demonstrates:
 
 - Basic HTML skills
